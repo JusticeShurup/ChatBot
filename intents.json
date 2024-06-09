@@ -1,0 +1,215 @@
+{
+        "intents": [
+                {
+                        "tag": "grettings",
+                        "patterns": [
+                                "Hello",
+                                "How are you?",
+                                "Have a Good day",
+                                "Whats up",
+                                "how are ya",
+                                "heyy",
+                                "whatsup",
+                                "Good morning",
+                                "good evening",
+                                "good afternoon",
+                                "How you have been ?",
+                                "How was your day ?",
+                                "Doing well ?",
+                                "is everything all right ?",
+                                "How are things?",
+                                "Whats new?",
+                                "Its good to see you",
+                                "Howdy",
+                                "Whats happening",
+                                "Yo",
+                                "Its nice to meet you",
+                                "Its a pleasure to meet you",
+                                "Hi there"
+                        ],
+                        "responses": [
+                                "Doing outstanding!,I'd be happy to assist ",
+                                "Hi there, how can I help?",
+                                "Glad to hear from you!!, What can I do for you?",
+                                "Nice to meet you!!,I'd be glad to help ",
+                                "Pleasure to meet you!,Is there anything I can do?",
+                                "Hello!:),how may I help ?"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "films",
+                        "patterns": [
+                                "What's your favorite movie?",
+                                "Do you like movies?",
+                                "Can you recommend a movie?",
+                                "What movie should I watch?",
+                                "I'm looking for a good movie",
+                                "Suggest a movie",
+                                "I love movies",
+                                "Movie recommendations",
+                                "What are some good movies?",
+                                "Any movie suggestions?"
+                        ],
+                        "responses": [
+                                "I'm a big fan of sci-fi movies! Have you seen 'Interstellar' or 'The Matrix'?",
+                                "If you're into action, you might enjoy 'The Avengers' or 'Mission: Impossible'.",
+                                "For a classic, you can't go wrong with 'Casablanca' or 'Citizen Kane'.",
+                                "Animated movies like 'Toy Story' or 'Wall-E' are always fun.",
+                                "If you're in the mood for a romance, try 'The Notebook' or 'Titanic'.",
+                                "Comedy-wise, 'The Hangover' and 'Anchorman' are hilarious.",
+                                "There's also 'Inception' and 'Shutter Island' for mind-bending thrillers.",
+                                "Or if you want a more recent release, 'Spider-Man: No Way Home' and 'The Batman' are both great choices!",
+                                "Let me know if you need more suggestions or if you have specific preferences."
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "games",
+                        "patterns": [
+                                "What's your favorite game?",
+                                "Do you like video games?",
+                                "Can you recommend a game?",
+                                "What game should I play?",
+                                "I'm looking for a fun game",
+                                "Suggest a game to play",
+                                "I love gaming",
+                                "Game recommendations",
+                                "What are some good games to play?",
+                                "Any game suggestions for me?"
+                        ],
+                        "responses": [
+                                "I'm a big fan of action-adventure games! Have you tried 'The Legend of Zelda: Breath of the Wild' or 'God of War'?",
+                                "If you're into first-person shooters, 'Call of Duty' and 'Halo' are classics.",
+                                "For a more strategic experience, 'Civilization' and 'XCOM' are excellent choices.",
+                                "Platformers like 'Super Mario Odyssey' and 'Hollow Knight' are always fun.",
+                                "If you're in the mood for a role-playing game, 'The Witcher 3' and 'Final Fantasy VII' are timeless classics.",
+                                "Sports games like 'FIFA' and 'NBA 2K' are great for sports fans.",
+                                "Indie games such as 'Stardew Valley' and 'Undertale' offer unique experiences.",
+                                "Or if you want a multiplayer game to play with friends, 'Fortnite' and 'Among Us' are very popular!",
+                                "Let me know your preferences, and I can give you more tailored suggestions."
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "goodbye",
+                        "patterns": [
+                                "cya",
+                                "see you",
+                                "bye bye",
+                                "See you later",
+                                "Goodbye",
+                                "I am Leaving",
+                                "Bye",
+                                "Have a Good day",
+                                "talk to you later",
+                                "tyyl",
+                                "i got to go",
+                                "gtg",
+                                "I've got to get going  or I must be going",
+                                "I'm off",
+                                "Take it easy",
+                                "Catch you later",
+                                "Peace",
+                                "I'm out",
+                                "I gotta jet",
+                                "I gotta take off",
+                                "I gotta hit the road",
+                                "I gotta head out",
+                                "Ttyl",
+                                "Chat soon",
+                                "GTG",
+                                "BRB",
+                                "BBL",
+                                "See ya later, alligator",
+                                "See ya, wouldn't wanna be ya!",
+                                "In a while, crocodile!"
+                        ],
+                        "responses": [
+                                "Sad to see you go :(",
+                                "Talk to you later",
+                                "Goodbye!",
+                                "Come back soon",
+                                "I'll see you then.",
+                                "Take care.",
+                                "It was a pleasure speaking with you.",
+                                "Have a great rest of your day!",
+                                "Have a nice day!",
+                                "Have a nice weekend!",
+                                "Bye for now.",
+                                "Don't be a stranger.",
+                                "Good seeing you!",
+                                "Keep in touch."
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "creator",
+                        "patterns": [
+                                "what is the name of your developers",
+                                "what is the name of your creators",
+                                "what is the name of the developers",
+                                "what is the name of the creators",
+                                "who created you",
+                                "your developers",
+                                "your creators",
+                                "who are your developers",
+                                "developers",
+                                "you are made by",
+                                "you are made by whom",
+                                "who created you",
+                                "who create you",
+                                "creators",
+                                "who made you",
+                                "who designed you"
+                        ],
+                        "responses": [
+                                "My creator is Michail Grishin"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "name",
+                        "patterns": [
+                                "name",
+                                "your name",
+                                "do you have a name",
+                                "what are you called",
+                                "what is your name",
+                                "what should I call you",
+                                "whats your name?",
+                                "what are you",
+                                "who are you",
+                                "who is this",
+                                "what am i chatting to",
+                                "who am i taking to",
+                                "what are you"
+                        ],
+                        "responses": [
+                                "I am just chatbot"
+                        ],
+                        "context_set": ""
+                },
+                {
+                        "tag": "joke",
+                        "patterns": [
+                                "joke",
+                                "funny",
+                                "can you tell me a funny joke",
+                                "tell me a joke",
+                                "humour",
+                                "do something funny",
+                                "meme",
+                                "tell me a joke",
+                                "can you be funny"
+                        ],
+                        "responses": [
+                                "The optimist says: The glass is half full. The pessimist says: The glass is half empty. The engineer says: The glass is twice as big as it needs to be.",
+                                "Looking for a partner in engineering: the odds are good, but the goods are odd.",
+                                "Three engineers were riding in a car, went down a hill, and crashed. The mechanical engineer said, 'It must be the brakes. Let me check 'em out.' The electrical engineer said, 'I think it was something in the electrical system. Let me check it out. 'The software engineer said, 'Let's push it back up the hill and run it again.'",
+                                "No",
+                                "A programmer's wife asks him, 'Would you go to the shop and pick up a loaf of bread? And if they have eggs, get a dozen.' The programmer goes to the store and returns home with 12 loaves of bread. 'They had eggs,' he explained."
+                        ]
+                }
+        ]
+}
