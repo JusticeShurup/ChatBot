@@ -34,8 +34,7 @@
                                 "Nice to meet you!!,I'd be glad to help ",
                                 "Pleasure to meet you!,Is there anything I can do?",
                                 "Hello!:),how may I help ?"
-                        ],
-                        "context_set": ""
+                        ]
                 },
                 {
                         "tag": "films",
@@ -61,8 +60,7 @@
                                 "There's also 'Inception' and 'Shutter Island' for mind-bending thrillers.",
                                 "Or if you want a more recent release, 'Spider-Man: No Way Home' and 'The Batman' are both great choices!",
                                 "Let me know if you need more suggestions or if you have specific preferences."
-                        ],
-                        "context_set": ""
+                        ]
                 },
                 {
                         "tag": "games",
@@ -88,8 +86,7 @@
                                 "Indie games such as 'Stardew Valley' and 'Undertale' offer unique experiences.",
                                 "Or if you want a multiplayer game to play with friends, 'Fortnite' and 'Among Us' are very popular!",
                                 "Let me know your preferences, and I can give you more tailored suggestions."
-                        ],
-                        "context_set": ""
+                        ]
                 },
                 {
                         "tag": "goodbye",
@@ -140,8 +137,7 @@
                                 "Don't be a stranger.",
                                 "Good seeing you!",
                                 "Keep in touch."
-                        ],
-                        "context_set": ""
+                        ]
                 },
                 {
                         "tag": "creator",
@@ -165,8 +161,7 @@
                         ],
                         "responses": [
                                 "My creator is Michail Grishin"
-                        ],
-                        "context_set": ""
+                        ]
                 },
                 {
                         "tag": "name",
@@ -187,8 +182,7 @@
                         ],
                         "responses": [
                                 "I am just chatbot"
-                        ],
-                        "context_set": ""
+                        ]
                 },
                 {
                         "tag": "joke",
